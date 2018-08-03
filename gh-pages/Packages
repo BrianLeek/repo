@@ -1,0 +1,14 @@
+Package: com.briansrepo.timely
+Name: Timely
+Version: 1.0
+Size: 55712
+Architecture: iphoneos-arm
+Description: A widget for your IOS lockscreen.
+Maintainer: Brian (@Precutting) <swiftevolve@gmail.com>
+Author: Brian (@Precutting) <swiftevolve@gmail.com>
+Section: Lockscreen Widgets
+MD5sum: eb44f64b7f3371a02993e025d895c524
+SHA1sum: 885c6cd1a36e8585564e2261df4052803d16958e
+SHA256sum: 0c18805b9aecae27af0eeb4dd20d65fd35faa07a1c407522e09c3be033517a7a
+Filename: debs//com.briansrepo.timely.zip
+

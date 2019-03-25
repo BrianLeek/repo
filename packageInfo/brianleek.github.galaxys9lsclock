@@ -1,0 +1,7 @@
+{
+	"name": "Samsung Galaxy S9 LS Clock",
+	"desc_short": "A Samsung Galaxy S9 lockscreen clock widget for XenHTML.",
+	"changelog": "<strong>1.2</strong><br>+ Code optimizations.<br>+ Added readme.txt file.<br><strong>1.0</strong><br>+ Initial Release<br>",
+	"screenshot": "<div style='text-align:center;'><a href='#' target='_blank'><img width=95% src='./screenshots/galaxys9lsclock1.jpg'/></a><br></div>",
+	"open": true,
+}

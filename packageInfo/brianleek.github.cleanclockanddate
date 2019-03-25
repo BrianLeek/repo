@@ -1,0 +1,7 @@
+{
+	"name": "Clean Clock and Date",
+	"desc_short": 'Clean Clock and Date brings you a clean clock and date display on your lockscreen for your iDevice.<br /><br />If you want to remove the line under the date just go to <code>/var/mobile/Library/LockHTML/Clean Clock & Date/</code> and open <code>LockBackground.html</code> and find <code><div class="line"></div></code> and remove it.',
+	"changelog": "<strong>1.3</strong><br>+ Fixed CSS not working.<br><strong>1.2</strong><br>+ Code optimizations.<br>+ Extended the width of the line.<br>+ Added readme.txt file.<br><strong>1.1</strong><br>+ Fixed time and date alignment.<br>+ Extended line.<br><strong>1.0</strong><br>+ Initial Release<br>",
+	"screenshot": "<div style='text-align:center;'><a href='#' target='_blank'><img width=95% src='./screenshots/cleanclockanddate1.jpg'/></a><br><a href='#' target='_blank'><img width=95% src='./screenshots/cleanclockanddate2.jpg'/></a></div>",
+	"open": true,
+}

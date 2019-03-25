@@ -1,0 +1,101 @@
+Package: brianleek.github.lsdigitalclockwithday
+Name: LS Digital Clock With Day
+Version: 1.4
+Size: 46444
+Architecture: iphoneos-arm
+Description: LS Digital Clock With Day gives you a cool looking clock and date display along with the day on your iDevice lockscreen.
+Maintainer: Brian <brianleek2016@gmail.com>
+Author: Brian <brianleek2016@gmail.com>
+Section: Lockscreen Widgets
+MD5sum: 40e6bd5908343358481728b073956a67
+SHA1sum: 2f9e40f8a868c19e726444b09527137fa070d96b
+SHA256sum: dca4419723e34532b6c7ca2c203a70bc37bf18a8cec303986d308a5b0a3a7971
+Homepage: http://brianleek.github.io/repo
+Depiction: http://brianleek.github.io/repo/description.html?id=brianleek.github.lsdigitalclockwithday
+SileoDepiction: https://brianleek.github.io/repo/packageInfo/native-depictions/brianleek.github.lsdigitalclockwithday-native
+Filename: ./brianleek.github.lsdigitalclockwithday.deb
+
+Package: brianleek.github.lsdigitalclock
+Name: LS Digital Clock
+Version: 1.1
+Size: 46464
+Architecture: iphoneos-arm
+Description: LS Digital Clock gives you a cool looking clock and date display on your iDevice lockscreen.
+Maintainer: Brian (@Precutting) <brianleek2016@gmail.com>
+Author: Brian (@Precutting) <brianleek2016@gmail.com>
+Section: Lockscreen Widgets
+MD5sum: 3c91b6e341170dc6e50c9ff7fc4aa28a
+SHA1sum: 0c6d6eb5d9cef77931c0b432ddb6c70a829aff36
+SHA256sum: 9c06b4742e45242d87860f886015e40deceebcfdab2b90e36f43944240cbfb1b
+Homepage: http://brianleek.github.io/repo
+Depiction: http://brianleek.github.io/repo/description.html?id=brianleek.github.lsdigitalclock
+SileoDepiction: https://brianleek.github.io/repo/packageInfo/native-depictions/brianleek.github.lsdigitalclock-native
+Filename: ./brianleek.github.lsdigitalclock.deb
+
+Package: brianleek.github.cleanclockanddate
+Name: Clean Clock and Date
+Version: 1.3
+Size: 48970
+Architecture: iphoneos-arm
+Description: Clean Clock and Date brings you a clean clock and date display on your lockscreen for your iDevice.<br /><br />If you want to remove the line under the date just go to <code>/var/mobile/Library/LockHTML/Clean Clock & Date/</code> and open <code>LockBackground.html</code> and find <code><div class="line"></div></code> and remove it.
+Maintainer: Brian <brianleek2016@gmail.com>
+Author: Brian <brianleek2016@gmail.com>
+Section: Lockscreen Widgets
+MD5sum: 43438c9fb3297f215329f6cb6c751294
+SHA1sum: f9acd975d2dd95dd58a760b75753b57ac4ebfff0
+SHA256sum: 4eb98c65c7615b2354549397f784e02304f8ae05d57f1bc77e51e34f3316f199
+Homepage: http://brianleek.github.io/repo
+Depiction: http://brianleek.github.io/repo/description.html?id=brianleek.github.cleanclockanddate
+SileoDepiction: https://brianleek.github.io/repo/packageInfo/native-depictions/brianleek.github.cleanclockanddate-native
+Filename: ./brianleek.github.cleanclockanddate.deb
+
+Package: brianleek.github.galaxys9lsclock
+Name: Samsung Galaxy S9 LS Clock
+Version: 1.2
+Size: 39036
+Architecture: iphoneos-arm
+Description: A Samsung Galaxy S9 lockscreen clock widget for your iDevice lockscreen.
+Maintainer: Brian <brianleek2016@gmail.com>
+Author: Brian <brianleek2016@gmail.com>
+Section: Lockscreen Widgets
+MD5sum: b7a3ebb9d617083425115b640e032b36
+SHA1sum: 4b09c954493276a7176ed43d046e92c359726f31
+SHA256sum: 3833800829e80e7d0ce4043dffabe4891cb877dd562f48a5e3585054170a49f2
+Homepage: http://brianleek.github.io/repo
+Depiction: http://brianleek.github.io/repo/description.html?id=brianleek.github.galaxys9lsclock
+SileoDepiction: https://brianleek.github.io/repo/packageInfo/native-depictions/brianleek.github.galaxys9lsclock-native
+Filename: ./brianleek.github.galaxys9lsclock.deb
+
+Package: brianleek.github.lsdigitalrecreate
+Name: LS Digital Recreate
+Version: 1.0
+Size: 45788
+Architecture: iphoneos-arm
+Description: LS Digital Recreate is a recreated version of a widget called LS Digital widget that a reddit user wanted me to recreate.
+Maintainer: Brian <brianleek2016@gmail.com>
+Author: Brian <brianleek2016@gmail.com>
+Section: Lockscreen Widgets
+MD5sum: 690e80387d298d2a16ccc92f55832a2e
+SHA1sum: 94ab9815f111dce39bc8ea9effc84dadadad0290
+SHA256sum: 2012723639c395fe0cf2c03c0ffb35322bba5ad7c89ed56b8aaad25c5a43bc95
+Homepage: http://brianleek.github.io/repo
+Depiction: http://brianleek.github.io/repo/description.html?id=brianleek.github.lsdigitalrecreate
+SileoDepiction: https://brianleek.github.io/repo/packageInfo/native-depictions/brianleek.github.lsdigitalrecreate-native
+Filename: ./brianleek.github.lsdigitalrecreate.deb
+
+Package: brianleek.github.allerclock
+Name: Aller Clock
+Version: 1.0
+Size: 146698
+Architecture: iphoneos-arm
+Description: Aller Clock is a simple clock widget for your lockscreen it gives your lockscreen a nice and simple look that everybody will like.
+Maintainer: Brian <brianleek2016@gmail.com>
+Author: Brian <brianleek2016@gmail.com>
+Section: Lockscreen Widgets
+MD5sum: 5e070af7c06c8decff5b4843c7859e56
+SHA1sum: 96ac626ca686cd1f7c1217603cabb9febcea0268
+SHA256sum: cd9387999bd6d8c7a6e63b12c3b99d74c0e2b6677cf2b66fdf72f62f988852b4
+Homepage: http://brianleek.github.io/repo
+Depiction: http://brianleek.github.io/repo/description.html?id=brianleek.github.allerclock
+SileoDepiction: https://brianleek.github.io/repo/packageInfo/native-depictions/brianleek.github.allerclock-native
+Filename: ./brianleek.github.allerclock.deb

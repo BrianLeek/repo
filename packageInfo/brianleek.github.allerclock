@@ -1,0 +1,7 @@
+{
+	"name": "Aller Clock",
+	"desc_short": 'Aller Clock is a simple clock widget for your lockscreen it gives your lockscreen a nice and simple look that everybody will like.',
+	"changelog": "<strong>1.0</strong><br>+ Initial Release<br>",
+	"screenshot": "<div style='text-align:center;'><a href='#' target='_blank'><img width=95% src='./screenshots/allerclock1.jpg'/></a></div>",
+	"open": true,
+}
